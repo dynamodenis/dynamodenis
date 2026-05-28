@@ -1,6 +1,6 @@
 <div align="center">
 
-# Denis Mbugua Wanjiru
+# Dynamo Denis Mbugua
 
 **Senior Software Engineer · Technical Lead · AI Systems Builder**
 
