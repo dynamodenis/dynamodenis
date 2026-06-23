@@ -95,10 +95,28 @@ Multi-agent AI system using **GPT, Llama, Claude, and Deepseek** models to auton
 </td>
 <td width="50%">
 
+#### 🔍 [DocuSearch — Hybrid RAG Search Engine](https://docu-search.dmbugua66.workers.dev/)
+**Qdrant Certified Project** — Production-grade hybrid search achieving **MRR 0.9** retrieval accuracy. 3-layer semantic chunking, hybrid retrieval with dense vectors (BAAI/bge-small), BM25 sparse vectors, and ColBERT reranking via Reciprocal Rank Fusion. INT8 quantization for **4x memory reduction**. [GitHub](https://github.com/dynamodenis/QDrant)
+
+`Qdrant` `FastEmbed` `ColBERT` `React` `TypeScript` `Python` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### 🛒 [Adenzo E-commerce Platform](https://adenzo.co.ke/)
 Full-stack e-commerce platform with **M-Pesa, Visa, and Mastercard** payment integrations. Built for the African market with mobile-first design and secure transaction flows.
 
 `React` `Node.js` `PostgreSQL` `M-Pesa API` `Payments`
+
+</td>
+<td width="50%">
+
+#### 🏢 [Prism Media Digital Agency](https://prismmedia.co.ke/)
+Digital agency helping small businesses in Kenya with branding, social media management, and digital marketing. Managing content calendars, analytics, and growth strategies for multiple clients.
+
+`Digital Marketing` `Social Media` `Branding` `Content Strategy`
 
 </td>
 </tr>
