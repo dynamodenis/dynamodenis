@@ -87,7 +87,7 @@ I use **Claude Code** daily and build with AI, not just about AI.
 <tr>
 <td width="50%">
 
-#### 🤖 [Autonomous AI Trading System](https://huggingface.co/spaces/dynamodenis254/trading_floor)
+#### 🤖 [Autonomous AI Trading System](https://autonomous-trading.dmbugua66.workers.dev)
 Multi-agent AI system using **GPT, Llama, Claude, and Deepseek** models to autonomously research markets, execute trades, and manage portfolios with real-time notifications. Built with Python, custom MCP servers, and multiple AI APIs.
 
 `Python` `LLMs` `Multi-Agent` `MCP Servers` `CrewAI`
